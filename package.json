@@ -1,0 +1,12 @@
+{
+  "name": "qa.automation-service.jest",
+  "version": "1.0.0",
+  "description": "Mini Curso de Automação de API com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
